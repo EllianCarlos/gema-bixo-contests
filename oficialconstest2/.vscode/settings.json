@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        ".sequelizerc": "javascript",
+        "ostream": "cpp"
+    }
+}
